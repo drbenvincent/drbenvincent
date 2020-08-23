@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Cognitive Scientist. These days I code in Python, R, and Julia. Some of my repo's support scientific publications, but you'll also find teaching materials, my own learning and experimentation, and some just-for-fun projects.
+
 <!--
 **drbenvincent/drbenvincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
