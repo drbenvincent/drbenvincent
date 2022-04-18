@@ -9,6 +9,7 @@ I am also a contributor to [PyMC](http://docs.pymc.io), having contributed a num
 - [Bayesian regression with truncated or censored data](https://docs.pymc.io/en/v3/pymc-examples/examples/generalized_linear_models/GLM-truncated-censored-regression.html), and I have also contributed to the [Censored data](https://docs.pymc.io/en/v3/pymc-examples/examples/survival_analysis/censored_data.html) example
 - [Bayesian mediation analysis](https://docs.pymc.io/en/v3/pymc-examples/examples/case_studies/mediation_analysis.html)
 - [Bayesian moderation analysis](https://docs.pymc.io/en/v3/pymc-examples/examples/case_studies/moderation_analysis.html)
+- [Gaussian mixture models](https://docs.pymc.io/projects/examples/en/latest/mixture_models/gaussian_mixture_model.html)
 
 # Academic publications
 Check my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=dGtTcrYAAAAJ) for my full list of publications.
