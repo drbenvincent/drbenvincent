@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a (soon to be ex-) Cognitive Scientist with a focus on Bayesian methods. From September 2022 I quit my faculty position and I will become a full time Bayesian data scientist.
+I'm a Bayesian data science consultant with a focus on Bayesian methods. Part of [PyMC Labs](https://www.pymc-labs.io)
 
-These days I code in Python, R, and Julia. Some of my repo's support scientific publications, but you'll also find teaching materials, my own learning and experimentation, and some just-for-fun projects.
+I code in Python and sometimes Julia. Some of my repo's support scientific publications, but you'll also find teaching materials, my own learning and experimentation, and some just-for-fun projects.
 
 # Open source contributions - Bayesian inference with PyMC
 I am also a contributor to [PyMC](http://docs.pymc.io), focussing my efforts on writing examples to educate and inform about Bayesian modelling. I've covered the following topics:
