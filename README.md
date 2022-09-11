@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Bayesian data science consultant with a focus on Bayesian methods. Part of [PyMC Labs](https://www.pymc-labs.io)
+I'm a data science consultant with a focus on Bayesian methods. Part of [PyMC Labs](https://www.pymc-labs.io)
 
 I code in Python and sometimes Julia. Some of my repo's support scientific publications, but you'll also find teaching materials, my own learning and experimentation, and some just-for-fun projects.
 
